@@ -1,0 +1,8 @@
+﻿<Window x:Class="SetPingPongAtFirewallAsICMP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Loaded="Window_Loaded_1">
+    <Grid>
+        
+    </Grid>
+</Window>

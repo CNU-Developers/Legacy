@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{9AA553A3-6D99-4DDD-B9FC-3C1DB18AEDCB}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://minhoryang.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WpfApplication1\\WpfApplication1.csproj
+		SccProjectName1 = WpfApplication1
+		SccLocalPath1 = WpfApplication1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA553A3-6D99-4DDD-B9FC-3C1DB18AEDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA553A3-6D99-4DDD-B9FC-3C1DB18AEDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA553A3-6D99-4DDD-B9FC-3C1DB18AEDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA553A3-6D99-4DDD-B9FC-3C1DB18AEDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
