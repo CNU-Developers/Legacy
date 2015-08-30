@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace RemoteShutdownServer.Source
+{
+    public class MACTable
+    {
+        private String[] w = {
+            "", "", "", 
+        };
+
+        public string GetStringFromIndex(int index)
+        {
+            return w[index];
+        }
+    }
+}

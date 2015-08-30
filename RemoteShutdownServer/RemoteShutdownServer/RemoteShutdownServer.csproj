@@ -59,6 +59,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <None Include="Source\MacTable.cs.sample" />
+    <Compile Include="Source\MacTable.cs" />
     <Compile Include="Source\MainSource.cs" />
     <Compile Include="Source\WOL.cs" />
     <Page Include="MainWindow.xaml">

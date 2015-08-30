@@ -1,0 +1,11 @@
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\bin\Release\RemoteShutdownServer.exe
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\bin\Release\RemoteShutdownServer.pdb
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Release\MainWindow.baml
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Release\MainWindow.g.cs
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Release\App.g.cs
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Release\RemoteShutdownServer_MarkupCompile.cache
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Release\RemoteShutdownServer.g.resources
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Release\RemoteShutdownServer.Properties.Resources.resources
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Release\RemoteShutdownServer.csproj.GenerateResource.Cache
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Release\RemoteShutdownServer.exe
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Release\RemoteShutdownServer.pdb

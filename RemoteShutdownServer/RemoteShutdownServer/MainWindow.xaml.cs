@@ -31,12 +31,12 @@ namespace RemoteShutdownServer
             for (int i = 0; i < pingThread.Length-2; i++)
             {
                 pingThread[i] = new Thread(PingPing);
-                pingThread[i].Start("192.168.200."+(i+45));
+                pingThread[i].Start("163.239.200."+(i+45));
             }
             pingThread[54] = new Thread(PingPing);
-            pingThread[54].Start("192.168.200.100");
+            pingThread[54].Start("163.239.200.100");
             pingThread[55] = new Thread(PingPing);
-            pingThread[55].Start("192.168.200.120");
+            pingThread[55].Start("163.239.200.120");
         }
 
 
@@ -82,7 +82,7 @@ namespace RemoteShutdownServer
         {
             for (int counter = 0; counter < Elist.Count-1; counter++)
             {
-                if (string.CompareOrdinal(ipAddress, "192.168.200."+(counter+45)) == 0)
+                if (string.CompareOrdinal(ipAddress, "163.239.200."+(counter+45)) == 0)
                 {
                     if (pingTest == true)
                         Elist[counter].Fill = new SolidColorBrush(Colors.Green);
@@ -90,7 +90,7 @@ namespace RemoteShutdownServer
                         Elist[counter].Fill = new SolidColorBrush(Colors.Red);
                 }
             }
-            if (string.CompareOrdinal(ipAddress, "192.168.200.100") == 0)
+            if (string.CompareOrdinal(ipAddress, "163.239.200.100") == 0)
             {
                 if (pingTest == true)
                     Elist[54].Fill = new SolidColorBrush(Colors.Green);
@@ -104,26 +104,26 @@ namespace RemoteShutdownServer
         private void Select1_Checked(object sender, RoutedEventArgs e)
         {
             Int32 computernumber = Int32.Parse(((CheckBox)sender).Content.ToString());
-            lst.Add("192.168.200." + (computernumber +44).ToString());
+            lst.Add("163.239.200." + (computernumber +44).ToString());
             MAClst.Add(new MACTable().GetStringFromIndex(computernumber - 1));
         }
 
         private void Select55_Checked(object sender, RoutedEventArgs e)
         {
-            lst.Add("192.168.200.100");
+            lst.Add("163.239.200.100");
             MAClst.Add(new MACTable().GetStringFromIndex(54));
         }
 
         private void Select1_Unchecked(object sender, RoutedEventArgs e)
         {
             Int32 computernumber = Int32.Parse(((CheckBox)sender).Content.ToString());
-            lst.Remove("192.168.200." + (computernumber + 44).ToString());
+            lst.Remove("163.239.200." + (computernumber + 44).ToString());
             MAClst.Remove(new MACTable().GetStringFromIndex(computernumber - 1));
         }
 
         private void Select55_Unchecked(object sender, RoutedEventArgs e)
         {
-            lst.Remove("192.168.200.100");
+            lst.Remove("163.239.200.100");
             MAClst.Remove(new MACTable().GetStringFromIndex(54));
         }
         #endregion

@@ -1,0 +1,12 @@
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\bin\Debug\RemoteShutdownServer.exe
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\bin\Debug\RemoteShutdownServer.pdb
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Debug\RemoteShutdownServer.csprojResolveAssemblyReference.cache
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Debug\MainWindow.baml
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Debug\App.g.cs
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Debug\RemoteShutdownServer_MarkupCompile.cache
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Debug\RemoteShutdownServer.g.resources
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Debug\RemoteShutdownServer.Properties.Resources.resources
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Debug\RemoteShutdownServer.csproj.GenerateResource.Cache
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Debug\RemoteShutdownServer.exe
+C:\Users\taeguk\Desktop\Legacy\RemoteShutdownServer\RemoteShutdownServer\obj\x86\Debug\RemoteShutdownServer.pdb
