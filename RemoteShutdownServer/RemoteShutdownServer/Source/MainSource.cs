@@ -24,6 +24,7 @@ namespace RemoteShutdownServer.Source
             {
                 threads[i] = new Thread(Shutdown);
                 threads[i].Start(i);
+                //Shutdown(i);
                 Thread.Sleep(100);
             }
         }

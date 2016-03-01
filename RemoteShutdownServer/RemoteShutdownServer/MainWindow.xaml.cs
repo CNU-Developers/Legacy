@@ -10,6 +10,7 @@ using System.Windows.Media;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 using RemoteShutdownServer.Source;
+using System.Threading.Tasks;
 
 namespace RemoteShutdownServer
 {
@@ -313,6 +314,7 @@ namespace RemoteShutdownServer
             for (int i = 0; i < MACArr.Length; i++)
             {
                 new WOL().WakeFunction(MACArr[i]);
+                Thread.Sleep(100);
             }
         }
         
